@@ -41,9 +41,9 @@ audio-data/
 <img src="results/2_min_enf.png" width="550">
 
 ### AUC / ROC curves
-#### STFT
+#### Using STFT
 <img src="results/dect_accu_stft.png" width="550">
 <br>
 
-#### MUSIC
+#### Using MUSIC
 <img src="results/dect_accu_musicref.png" width="550">
