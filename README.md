@@ -51,7 +51,7 @@ audio-data/
 
 ## Citation
 
-Part of this repository was used in our paper:
+A version of this repository was used in our paper:
 
 **Mohsen Hatami, Lhamo Dorje, Xiaohua Li, Yu Chen**, *“Is ENF a Good Physical Fingerprint?”* (accepted at **IEEE CCNC 2026**).  
 The paper PDF is included in this repo: `Does_ENF_Work_.pdf`.
@@ -66,6 +66,8 @@ If you find this code useful, please cite:
   year      = {2026},
   note      = {Accepted for publication at IEEE CCNC 2026},
 }
+```
 
-
+## Disclaimer
+Any bugs or errors in this code are **mine only** and do **not** represent the other authors.
 
