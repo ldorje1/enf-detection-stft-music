@@ -47,3 +47,25 @@ audio-data/
 
 #### Using MUSIC
 <img src="results/dect_accu_musicref.png" width="550">
+
+
+## Citation
+
+Part of this repository was used in our paper:
+
+**Mohsen Hatami, Lhamo Dorje, Xiaohua Li, Yu Chen**, *“Is ENF a Good Physical Fingerprint?”* (accepted at **IEEE CCNC 2026**).  
+The paper PDF is included in this repo: `Does_ENF_Work_.pdf`.
+
+If you find this code useful, please cite:
+
+```bibtex
+@inproceedings{hatami2026enf,
+  title     = {Is ENF a Good Physical Fingerprint?},
+  author    = {Hatami, Mohsen and Dorje, Lhamo and Li, Xiaohua and Chen, Yu},
+  booktitle = {2026 IEEE Consumer Communications \& Networking Conference (CCNC)},
+  year      = {2026},
+  note      = {Accepted for publication at IEEE CCNC 2026},
+}
+
+
+
