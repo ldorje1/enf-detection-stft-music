@@ -26,10 +26,10 @@ audio-data/
    └─ ...
 ```
 ### 2) Run ENF extraction (STFT + MUSIC)
-```twin_algo_main.mat```
+```source/twin_algo_main.mat```
 
 ### 4) Run detection evaluation + AUC curves
-```enf2correlator_audio.mat```
+```source/enf2correlator_audio.mat```
 ## Results
 
 ### ENF extraction examples
