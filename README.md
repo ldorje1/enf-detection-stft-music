@@ -25,9 +25,9 @@ audio-data/
    ├─ 002_ref.wav
    └─ ...
 ```
+### 2) Run ENF extraction (STFT + MUSIC)
 
-
-
+### 4) Run detection evaluation + AUC curves
 
 ## Results
 
