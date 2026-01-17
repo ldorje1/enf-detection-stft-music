@@ -5,14 +5,14 @@ MATLAB implementation of ENF-based audio forensics: extracts ENF from ENF-WHU no
 ## Results
 
 ### ENF extraction examples
-![STFT vs MUSIC ENF (one audio)](results/stft_music_oneaudio_enf.png)
-
-![ENF difference (one audio)](results/enf_difference_oneAudio.png)
+<img src="results/stft_music_oneaudio_enf.png" width="550">
+<br>
+<img src="results/enf_difference_oneAudio.png" width="550">
 
 ### Detection performance
-![Detection accuracy (STFT)](results/dect_accu_stft.png)
-
-![Detection accuracy (MUSIC ref)](results/dect_accu_musicref.png)
+<img src="results/2_min_enf.png" width="550">
 
 ### AUC / ROC curves
-![AUC curves](results/2_min_enf.png)
+<img src="results/dect_accu_stft.png" width="550">
+<br>
+<img src="results/dect_accu_musicref.png" width="550">
