@@ -16,5 +16,6 @@ MATLAB implementation of ENF-based audio forensics: extracts ENF from ENF-WHU no
 #### STFT
 <img src="results/dect_accu_stft.png" width="550">
 <br>
+
 #### MUSIC
 <img src="results/dect_accu_musicref.png" width="550">
