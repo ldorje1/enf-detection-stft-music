@@ -61,7 +61,7 @@ If you find this code useful, please cite:
 @inproceedings{hatami2026enf,
   title     = {Is ENF a Good Physical Fingerprint?},
   author    = {Hatami, Mohsen and Dorje, Lhamo and Li, Xiaohua and Chen, Yu},
-  booktitle = {2026 IEEE Consumer Communications \& Networking Conference (CCNC)},
+  booktitle = {2026 IEEE Consumer Communications & Networking Conference (CCNC)},
   year      = {2026},
   note      = {Accepted for publication at IEEE CCNC 2026},
 }
