@@ -25,7 +25,7 @@ audio-data/
    ├─ 002_ref.wav
    └─ ...
 ```
-### 2) Run ENF extraction (STFT + MUSIC)
+### 3) Run ENF extraction (STFT + MUSIC)
 ```source/twin_algo_main.mat```
 
 ### 4) Run detection evaluation + AUC curves
